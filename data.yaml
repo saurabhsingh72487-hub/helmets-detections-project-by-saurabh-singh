@@ -1,0 +1,8 @@
+path: C:/Users/saaur/yolov5-project
+
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 2
+names: ["class1", "class2"]
