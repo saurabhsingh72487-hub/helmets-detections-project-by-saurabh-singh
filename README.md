@@ -3,7 +3,6 @@
 Custom object detection project built using YOLOv5.
 
 ## Features
-
 * Custom YOLOv5 training.
 * Image detection
 * Webcam detection
