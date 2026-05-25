@@ -10,8 +10,6 @@ Custom object detection project built using YOLOv5.
 * Custom dataset support
 * PyTorch based implementation
 
----
-
 # Project Structure
 
 ```text
