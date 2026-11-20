@@ -163,4 +163,4 @@ runs/train/exp8/weights/best.pt
 
 This project uses the YOLOv5 framework by Ultralytics.
 
-# Author - SAURABH SINGH
+# Author - SAURABH SINGH 
